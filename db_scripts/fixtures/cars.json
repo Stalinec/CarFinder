@@ -1,0 +1,34 @@
+[
+  {
+    "model": "Car",
+    "data": {
+      "id":1,
+      "name": "Toyota Corolla 2008",
+      "image_url": "http://carphotos.cardomain.com/ride_images/3/2946/3661/32364330006_large.jpg"
+    }
+  },
+  {
+    "model": "Car",
+    "data": {
+      "id":2,
+      "name": "Mitsubishi Lancer 10",
+      "image_url": "https://i.quto.ru/c533x400/4c4d41c317f49.jpeg"
+    }
+  },
+  {
+    "model": "Car",
+    "data": {
+      "id":3,
+      "name": "Ford Kuga 2011",
+      "image_url": "https://i.ebayimg.com/00/s/NTAxWDc1MA==/z/fuAAAOSwqrtWpu~6/$_86.JPG"
+    }
+  },
+  {
+    "model": "Car",
+    "data": {
+      "id":4,
+      "name": "Volkswagen Touareg 2016",
+      "image_url": "http://www.iihs.org/frontend/iihs/ratings/images/api-model-year-image.ashx?id=2456&width=730"
+    }
+  }
+]

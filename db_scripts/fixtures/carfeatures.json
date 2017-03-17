@@ -1,0 +1,242 @@
+[
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 1,
+			"value" : "Toyota",
+			"carId" : 1,
+			"featureId" : 1,
+			"featureoptionId" : 3
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 2,
+			"value" : "7",
+			"carId" : 1,
+			"featureId" : 2,
+			"featureoptionId" : 5
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 3,
+			"value" : "Black",
+			"carId" : 1,
+			"featureId" : 3,
+			"featureoptionId" : 10
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 4,
+			"value" : "Manual",
+			"carId" : 1,
+			"featureId" : 4,
+			"featureoptionId" : 12
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 5,
+			"value" : "1.6",
+			"carId" : 1,
+			"featureId" : 5,
+			"featureoptionId" : 16
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 6,
+			"value" : "Sedan",
+			"carId" : 1,
+			"featureId" : 6,
+			"featureoptionId" : 18
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 7,
+			"value" : "Mitsubishi",
+			"carId" : 2,
+			"featureId" : 1,
+			"featureoptionId" : 4
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 8,
+			"value" : "8",
+			"carId" : 2,
+			"featureId" : 2,
+			"featureoptionId" : 5
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 9,
+			"value" : "Black",
+			"carId" : 2,
+			"featureId" : 3,
+			"featureoptionId" : 10
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 10,
+			"value" : "Variator",
+			"carId" : 2,
+			"featureId" : 4,
+			"featureoptionId" : 14
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 11,
+			"value" : "2",
+			"carId" : 2,
+			"featureId" : 5,
+			"featureoptionId" : 16
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 12,
+			"value" : "Sedan",
+			"carId" : 2,
+			"featureId" : 6,
+			"featureoptionId" : 18
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 13,
+			"value" : "Ford",
+			"carId" : 3,
+			"featureId" : 1,
+			"featureoptionId" : 2
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 14,
+			"value" : "15",
+			"carId" : 3,
+			"featureId" : 2,
+			"featureoptionId" : 6
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 15,
+			"value" : "Silver",
+			"carId" : 3,
+			"featureId" : 3,
+			"featureoptionId" : 8
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 16,
+			"value" : "Automat",
+			"carId" : 3,
+			"featureId" : 4,
+			"featureoptionId" : 13
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 17,
+			"value" : "2.4",
+			"carId" : 3,
+			"featureId" : 5,
+			"featureoptionId" : 17
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 18,
+			"value" : "SUV",
+			"carId" : 3,
+			"featureId" : 6,
+			"featureoptionId" : 21
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 19,
+			"value" : "Volkswagen",
+			"carId" : 4,
+			"featureId" : 1,
+			"featureoptionId" : 1
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 20,
+			"value" : "35",
+			"carId" : 4,
+			"featureId" : 2,
+			"featureoptionId" : 7
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 21,
+			"value" : "White",
+			"carId" : 4,
+			"featureId" : 3,
+			"featureoptionId" : 9
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 22,
+			"value" : "Automat",
+			"carId" : 4,
+			"featureId" : 4,
+			"featureoptionId" : 13
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 23,
+			"value" : "2.6",
+			"carId" : 4,
+			"featureId" : 5,
+			"featureoptionId" : 17
+		}
+	},
+	{
+		"model" : "Carfeature",
+		"data" : {
+			"id" : 24,
+			"value" : "SUV",
+			"carId" : 4,
+			"featureId" : 6,
+			"featureoptionId" : 21
+		}
+	}
+]

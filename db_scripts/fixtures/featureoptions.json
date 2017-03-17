@@ -1,0 +1,190 @@
+[
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 1,
+         "name": "Volkswagen",
+         "featureId": 1
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 2,
+         "name": "Ford",
+         "featureId": 1
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 3,
+         "name": "Toyota",
+         "featureId": 1
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 4,
+         "name": "Mitsubishi",
+         "featureId": 1
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 5,
+         "name": "Cheap",
+         "featureId": 2,
+         "lowerBound": 0,
+         "upperBound": 10
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 6,
+         "name": "Normal",
+         "featureId": 2,
+         "lowerBound": 10,
+         "upperBound": 20
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 7,
+         "name": "Expensive",
+         "featureId": 2,
+         "lowerBound": 20,
+         "upperBound": 100
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 8,
+         "name": "Silver",
+         "featureId": 3
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 9,
+         "name": "White",
+         "featureId": 3
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 10,
+         "name": "Black",
+         "featureId": 3
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 11,
+         "name": "Red",
+         "featureId": 3
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 12,
+         "name": "Manual",
+         "featureId": 4
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 13,
+         "name": "Automat",
+         "featureId": 4
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 14,
+         "name": "Variator",
+         "featureId": 4
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 15,
+         "name": "Weak",
+         "featureId": 5,
+         "lowerBound": 10,
+         "upperBound": 14
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 16,
+         "name": "Medium",
+         "featureId": 5,
+         "lowerBound": 14,
+         "upperBound": 20
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 17,
+         "name": "Powerful",
+         "featureId": 5,
+         "lowerBound": 20,
+         "upperBound": 50
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 18,
+         "name": "Sedan",
+         "featureId": 6
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 19,
+         "name": "Coupe",
+         "featureId": 6
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 20,
+         "name": "Hatchback",
+         "featureId": 6
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 21,
+         "name": "SUV",
+         "featureId": 6
+      }
+   },
+   {
+      "model": "Featureoption",
+      "data": {
+         "id": 22,
+         "name": "Station_vagon",
+         "featureId": 6
+      }
+   }
+]

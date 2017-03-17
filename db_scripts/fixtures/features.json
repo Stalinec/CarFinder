@@ -1,0 +1,50 @@
+[
+  {
+    "model": "Feature",
+    "data": {
+      "id": 1,
+      "name": "Manufacturer",
+      "apiAiId": "af111b0a-027e-40fb-adbc-7b0af6693da3"
+    }
+  },
+  {
+    "model": "Feature",
+    "data": {
+      "id": 2,
+      "name": "Price",
+      "apiAiId": "7c782772-c3ea-42ca-8190-84fb668b555a"
+    }
+  },
+  {
+    "model": "Feature",
+    "data": {
+      "id": 3,
+      "name": "Color",
+      "apiAiId": "e652bde0-1667-46fd-9ca6-32164aa9d42f"
+    }
+  },
+  {
+    "model": "Feature",
+    "data": {
+      "id": 4,
+      "name": "Transmission",
+      "apiAiId": "81f5a68b-414e-46ed-81c1-b56e6bb29ea0"
+    }
+  },
+  {
+    "model": "Feature",
+    "data": {
+      "id": 5,
+      "name": "Engine",
+      "apiAiId": "686779c9-ccaf-4aee-877f-1f2e7ac443c5"
+    }
+  },
+  {
+    "model": "Feature",
+    "data": {
+      "id": 6,
+      "name": "Body",
+      "apiAiId": "55ce9bec-bc80-4cbc-98fc-7998e652edf6"
+    }
+  }
+]

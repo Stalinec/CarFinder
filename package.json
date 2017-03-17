@@ -1,0 +1,25 @@
+{
+  "name": "cars-finder-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuriy Tereshchuk",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.1",
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "hbs": "^4.0.1",
+    "json-bigint": "^0.2.3",
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.2",
+    "sequelize-fixtures": "^0.5.6"
+  }
+}
